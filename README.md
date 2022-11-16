@@ -2,7 +2,7 @@
 
 1. This app is made using ReactJs.
 2. It uses CSS for styling.
-3. It has a UI similar to [notion](https://notion.so/)
+3. It has a UI similar to [notion](https://notion.so/).
 4. It uses local storage to store the notes.
 
 ### Features
@@ -16,7 +16,7 @@ A User can:
 
 ### Deployment
 
-Netlify deplyment URL: [Notes App in ReactJS](https://papaya-pika-e4f26a.netlify.app/)
+Netlify deployment URL: [Notes App in ReactJS](https://papaya-pika-e4f26a.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
